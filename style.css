@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(219, 215, 215);
+}
+
+h1 {
+    text-align: center;
+    background-color: azure;
+    font-family: 'Sacramento', cursive;
+    font-weight: bolder;
+    color: #66BFBF;
+}
